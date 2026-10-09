@@ -1,0 +1,3 @@
+Configuration,Test Accuracy,Test Loss,Training Time (seconds)
+Without Gradient Clipping,0.9039473533630371,0.31484901905059814,57.53256893157959
+With Gradient Clipping,0.9077631831169128,0.2930523455142975,76.23203110694885
